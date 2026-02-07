@@ -38,6 +38,7 @@ REGION_OPTIONS = [
 
 OS_IMAGE_OPTIONS = [
     {"name": "Debian 12 (Bookworm)", "project": "debian-cloud", "family": "debian-12"},
+    {"name": "Debian 13 (Trixie)", "project": "debian-cloud", "family": "debian-13"},
     {"name": "Ubuntu 22.04 LTS", "project": "ubuntu-os-cloud", "family": "ubuntu-2204-lts"},
 ]
 
